@@ -29,8 +29,8 @@ The COUNTIFS were a little challenging in the second deliverable, but it was mai
 ## Results
 
 1. What are two conclusions you can draw about the Outcomes based on Launch Date?
-- The best month for a launch is May.
-- The worst month for a launch is December.
+   - The best month for a launch is May.
+   - The worst month for a launch is December.
 
 2. What can you conclude about the Outcomes based on Goals?
 - The most successful outcomes are when the goal remains less than 1000.
