@@ -33,12 +33,12 @@ The COUNTIFS were a little challenging in the second deliverable, but it was mai
    - The worst month for a launch is December.
 
 2. What can you conclude about the Outcomes based on Goals?
-- The most successful outcomes are when the goal remains less than 1000.
+   - The most successful outcomes are when the goal remains less than 1000.
 
 3. What are some limitations of this dataset?
-- It's a relatively small data set.
-- There's only 9 years worth of data.
+   - It's a relatively small data set.
+   - There's only 9 years worth of data.
 
 4. What are some other possible tables and/or graphs that we could create?
-- Average Pledge Amount, Median Pledge Amount, possible Ranges and Distributions.
-- Goal versus Pledge line charts.
+   - Average Pledge Amount, Median Pledge Amount, possible Ranges and Distributions.
+   - Goal versus Pledge line charts.
