@@ -29,15 +29,15 @@ The COUNTIFS were a little challenging in the second deliverable, but it was mai
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-    The best month for a launch is May. The worst month for a launch is December.
+--The best month for a launch is May. The worst month for a launch is December.
 
 - What can you conclude about the Outcomes based on Goals?
-    -The most successful outcomes are when the goal remains less than 1000.
+--The most successful outcomes are when the goal remains less than 1000.
 
 - What are some limitations of this dataset?
-    -It's a relatively small data set.
-    -There's only 9 years worth of data.
+--It's a relatively small data set.
+--There's only 9 years worth of data.
 
 - What are some other possible tables and/or graphs that we could create?
-    -Average Pledge Amount, Median Pledge Amount, possible Ranges and Distributions.
-    -Goal versus Pledge line charts.
+--Average Pledge Amount, Median Pledge Amount, possible Ranges and Distributions.
+--Goal versus Pledge line charts.
