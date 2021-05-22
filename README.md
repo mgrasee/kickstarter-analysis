@@ -12,6 +12,8 @@ The data set provided contained the previous results of other projects that had 
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+(/resources/Theater_Outcomes_vs_Launch.png)
 [Outcomes versus Launch](./resources/Theater_Outcomes_vs_Launch.png)
 
 Analysis was performed by taking all outcomes of the Parent Category of theater across all years, and all months to determine the most successful months for launches.
